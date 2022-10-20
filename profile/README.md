@@ -35,14 +35,14 @@ rolled out to the [ISIS Neutron and Muon Source], and the [Central Laser Facilit
 
 ### Demo
 
-If you're interested in the software, contact ?
+If you're interested in the software, contact fredrik.bolmsten@ess.eu
 
 If you're a developer who wants to see what the software can do, you can follow the instructions in
 the [`user-office-core` README](https://github.com/UserOfficeProject/user-office-core).
 
 ### How to contribute
 
-If you're interested in getting your facility involved with the collaboration, contact ?
+If you're interested in getting your facility involved with the collaboration, contact fredrik.bolmsten@ess.eu
 
 [Deuteration and Macromolecular Crystallisation]: https://europeanspallationsource.se/science-support-systems/demax
 [European Spallation Source]: https://europeanspallationsource.se/
