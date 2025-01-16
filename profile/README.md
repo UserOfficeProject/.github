@@ -35,6 +35,14 @@ rolled out to the [ISIS Neutron and Muon Source], and the [Central Laser Facilit
 
 [<img alt="Science and Technology Facilities Council" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Science_and_Technology_Facilities_Council_logo.svg/1920px-Science_and_Technology_Facilities_Council_logo.svg.png" width=200>](https://www.ukri.org/councils/stfc/)
 
+#### Extreme Light Infrastructure
+
+The [Extreme Light Infrastructure] (ELI) joined the collaboration with the ESS and STFC in 2024.
+The software has been used to accept proposals for facilities at ELI ERIC since late 2024 and has been
+rolled out to the [ELI ALPS], [ELI Beamlines] and the [ELI NP] facilities.
+
+[<img alt="ELI ERIC" src="https://eli-laser.eu/images/eli-logo-HQ-1.jpg" width=200>](https://eli-laser.eu/)
+
 ### Demo
 
 If you're interested in the software, contact fredrik.bolmsten@ess.eu
@@ -51,3 +59,7 @@ If you're interested in getting your facility involved with the collaboration, c
 [Science and Technology Facilities Council]: https://www.ukri.org/councils/stfc/
 [ISIS Neutron and Muon Source]: https://www.isis.stfc.ac.uk/Pages/home.aspx
 [Central Laser Facility]: https://www.clf.stfc.ac.uk/Pages/About-the-Central-Laser-Facility.aspx
+[Extreme Light Infrastructure]: https://eli-laser.eu/
+[ELI ALPS]: https://www.eli-alps.hu/
+[ELI Beamlines]: https://www.eli-beams.eu/
+[ELI NP]: https://www.eli-np.ro/
