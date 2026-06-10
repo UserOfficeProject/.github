@@ -11,7 +11,7 @@ programme managers to configure the software to meet the needs of their facility
 - Facility science staff can submit technical reviews on each proposal
 - Science evaluation panels can be set up to review proposals 
 
-### Where this is used
+### Participating facilities 
 
 #### European Spallation Source
 
