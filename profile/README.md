@@ -43,6 +43,13 @@ rolled out to the [ELI ALPS], [ELI Beamlines] and the [ELI NP] facilities.
 
 [<img alt="ELI ERIC" src="https://eli-laser.eu/images/eli-logo-HQ-1.jpg" width=200>](https://eli-laser.eu/)
 
+#### Diamond Light Source
+
+The Diamond Light Source Limited (DLS) is the United Kingdom’s national synchrotron. It is located on the Harwell Science and Innovation Campus in South Oxfordshire. DLS joined the Collaboration in 2025 and is working towards fully incorporating the application to manage user office processes.
+
+<img width="300" alt="Diamond Light Source" src="https://github.com/user-attachments/assets/066275cd-17ea-42bb-be3c-39449ffa7051" />
+
+
 ### Demo
 
 If you're interested in the software, contact fredrik.bolmsten@ess.eu
