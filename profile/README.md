@@ -33,7 +33,13 @@ The [Science and Technology Facilities Council] (STFC) joined the collaboration 
 The software has been used to accept proposals for facilities at STFC since late 2021 and has been
 rolled out to the [ISIS Neutron and Muon Source], and the [Central Laser Facility].
 
-[<img alt="Science and Technology Facilities Council" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Science_and_Technology_Facilities_Council_logo.svg/1920px-Science_and_Technology_Facilities_Council_logo.svg.png" width=200>](https://www.ukri.org/councils/stfc/)
+<a href="https://www.ukri.org/councils/stfc/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/716429f9-c036-421a-a8fe-33de12612707">
+    <img alt="Science and Technology Facilities Council" src="https://github.com/user-attachments/assets/4f27f880-d426-47cc-b27d-17667e75efc3" width=300>
+  </picture>
+</a>
+
 
 #### Extreme Light Infrastructure
 
