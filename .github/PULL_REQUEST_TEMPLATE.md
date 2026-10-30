@@ -26,6 +26,32 @@
 
 <!--- Does this PR depend on another PR that should be merged first or at the same time -->
 
+<!--- AI Usage: if AI contributed meaningfully to this PR, remove the comment markers around the AI Usage section below and fill it in.
+Make sure the PR has the ai:assisted label. Some repositories add it automatically when the section is uncommented.
+
+Tools used: e.g. Copilot, Claude Code, Cursor, Codex
+Involvement (tick one):
+- Light: I wrote most of the code; AI helped with suggestions or small pieces
+- Substantial: AI wrote large portions under my direction and review
+- Agent driven: an AI agent produced most of the change end to end, and I reviewed it
+What AI was used for: e.g. tests, refactoring, a new resolver, migration
+Areas needing closer review: optional
+-->
+
+<!--
+## AI Usage
+
+**Tools used:**
+
+**Involvement:**
+- [ ] Light
+- [ ] Substantial
+- [ ] Agent driven
+
+**What AI was used for:**
+
+**Areas needing closer review:**
+-->
 
 ## Tests included/Docs Updated?
 
